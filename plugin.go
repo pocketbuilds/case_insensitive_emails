@@ -3,8 +3,8 @@ package case_insensitive_emails
 import (
 	"strings"
 
-	"github.com/PocketBuilds/xpb"
 	"github.com/pocketbase/pocketbase/core"
+	"github.com/pocketbuilds/xpb"
 )
 
 func init() {

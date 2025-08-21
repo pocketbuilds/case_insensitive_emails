@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	plugin "github.com/PocketBuilds/case_insensitive_emails"
 	"github.com/pocketbase/pocketbase"
+	plugin "github.com/pocketbuilds/case_insensitive_emails"
 )
 
 func main() {
